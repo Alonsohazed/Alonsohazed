@@ -1,6 +1,6 @@
 ### Hi, I'm Alexis
 
-I'm a full-stack engineer and technical consultant based in Mexico. At Tata Technologies I work on enterprise client accounts (automotive, retail, banking, fintech), building data pipelines, dashboards and automation on top of whatever systems the client already has. On the side I build software for small organizations that still run on paper and spreadsheets.
+I'm a full-stack software engineer based in Mexico. At Tata Technologies I work embedded on enterprise client accounts (automotive, retail, banking, fintech): Python services and automation, integrations with the client's systems, internal web tools, cloud deployments and the reporting layer on top. On the side I build and deploy software for organizations that still run on paper.
 
 **What I work with:** Python, TypeScript/React, SQL, FastAPI, Node.js, AWS, GCP, Cloudflare, Power BI. Lately a lot of LLM tooling and multi-agent setups.
 
